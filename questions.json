@@ -1,38 +1,92 @@
 [
   {
-    "question": "What is 'phishing' in financial fraud?",
+    "question": "What is net income?",
     "answer": [
-      { "text": "A scam to obtain sensitive information via email", "correct": true },
-      { "text": "A legitimate bank email", "correct": false },
-      { "text": "A kind of investment plan", "correct": false },
-      { "text": "A method of ATM maintenance", "correct": false }
+      { "text": "Your total pay before deductions", "correct": false },
+      { "text": "Your take-home pay after taxes and benefits", "correct": true },
+      { "text": "Your total investments and savings", "correct": false },
+      { "text": "Your monthly fixed expenses", "correct": false }
     ]
   },
   {
-    "question": "Which scheme promises high returns and pays old investors using new investors' money?",
+    "question": "Why should you not focus on your total pay when budgeting?",
     "answer": [
-      { "text": "Ponzi scheme", "correct": true },
-      { "text": "Mortgage lending", "correct": false },
-      { "text": "Cryptocurrency mining", "correct": false },
-      { "text": "Insurance underwriting", "correct": false }
+      { "text": "It includes irregular income", "correct": false },
+      { "text": "It may cause you to overspend", "correct": true },
+      { "text": "It is always higher than your actual income", "correct": false },
+      { "text": "It does not include taxes", "correct": false }
     ]
   },
   {
-    "question": "What is synthetic identity fraud?",
+    "question": "Which of the following is a fixed expense?",
     "answer": [
-      { "text": "Using a combination of real and fake information to create a new identity", "correct": true },
-      { "text": "Stealing a real person's identity", "correct": false },
-      { "text": "An identity verification service", "correct": false },
-      { "text": "A customer loyalty program", "correct": false }
+      { "text": "Rent or mortgage", "correct": true },
+      { "text": "Groceries", "correct": false },
+      { "text": "Entertainment", "correct": false },
+      { "text": "Gasoline", "correct": false }
     ]
   },
   {
-    "question": "What does 'card skimming' refer to?",
+    "question": "What is the first step in building a budget?",
     "answer": [
-      { "text": "Copying card data from ATMs or POS devices", "correct": true },
-      { "text": "A bank's interest calculation", "correct": false },
-      { "text": "A contactless payment", "correct": false },
-      { "text": "A marketing survey", "correct": false }
+      { "text": "Set financial goals", "correct": false },
+      { "text": "Track your spending", "correct": false },
+      { "text": "Calculate your net income", "correct": true },
+      { "text": "Pick a budgeting method", "correct": false }
+    ]
+  },
+  {
+    "question": "What percentage of income goes to needs in the 50/30/20 budget?",
+    "answer": [
+      { "text": "20%", "correct": false },
+      { "text": "30%", "correct": false },
+      { "text": "50%", "correct": true },
+      { "text": "70%", "correct": false }
+    ]
+  },
+  {
+    "question": "In the envelope budget method, what happens when an envelope is empty?",
+    "answer": [
+      { "text": "Refill it immediately", "correct": false },
+      { "text": "Stop spending in that category", "correct": true },
+      { "text": "Borrow from another envelope", "correct": false },
+      { "text": "Reduce savings", "correct": false }
+    ]
+  },
+  {
+    "question": "In the zero-based budget, what should your income minus expenses equal?",
+    "answer": [
+      { "text": "Your total savings", "correct": false },
+      { "text": "Zero", "correct": true },
+      { "text": "Your monthly needs", "correct": false },
+      { "text": "Your total wants", "correct": false }
+    ]
+  },
+  {
+    "question": "Which budgeting method involves saving before paying any bills?",
+    "answer": [
+      { "text": "Envelope budget", "correct": false },
+      { "text": "Zero-based budget", "correct": false },
+      { "text": "Pay-yourself-first budget", "correct": true },
+      { "text": "50/30/20 budget", "correct": false }
+    ]
+  },
+  {
+    "question": "Which category is usually the first to cut back when adjusting a budget?",
+    "answer": [
+      { "text": "Wants", "correct": true },
+      { "text": "Needs", "correct": false },
+      { "text": "Savings", "correct": false },
+      { "text": "Fixed expenses", "correct": false }
+    ]
+  },
+  {
+    "question": "Why should you review your budget regularly?",
+    "answer": [
+      { "text": "Because budgets expire", "correct": false },
+      { "text": "To ensure it reflects changes in income or expenses", "correct": true },
+      { "text": "To get better investment returns", "correct": false },
+      { "text": "To increase your credit score", "correct": false }
     ]
   }
 ]
