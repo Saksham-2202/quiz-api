@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is 'phishing' in financial fraud?",
+    "answer": [
+      { "text": "A scam to obtain sensitive information via email", "correct": true },
+      { "text": "A legitimate bank email", "correct": false },
+      { "text": "A kind of investment plan", "correct": false },
+      { "text": "A method of ATM maintenance", "correct": false }
+    ]
+  },
+  {
+    "question": "Which scheme promises high returns and pays old investors using new investors' money?",
+    "answer": [
+      { "text": "Ponzi scheme", "correct": true },
+      { "text": "Mortgage lending", "correct": false },
+      { "text": "Cryptocurrency mining", "correct": false },
+      { "text": "Insurance underwriting", "correct": false }
+    ]
+  },
+  {
+    "question": "What is synthetic identity fraud?",
+    "answer": [
+      { "text": "Using a combination of real and fake information to create a new identity", "correct": true },
+      { "text": "Stealing a real person's identity", "correct": false },
+      { "text": "An identity verification service", "correct": false },
+      { "text": "A customer loyalty program", "correct": false }
+    ]
+  },
+  {
+    "question": "What does 'card skimming' refer to?",
+    "answer": [
+      { "text": "Copying card data from ATMs or POS devices", "correct": true },
+      { "text": "A bank's interest calculation", "correct": false },
+      { "text": "A contactless payment", "correct": false },
+      { "text": "A marketing survey", "correct": false }
+    ]
+  }
+]
