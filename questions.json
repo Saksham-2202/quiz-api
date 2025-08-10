@@ -88,5 +88,95 @@
       { "text": "To get better investment returns", "correct": false },
       { "text": "To increase your credit score", "correct": false }
     ]
+  },
+  {
+    "question": "Which protocol is used for secure communication over the internet?",
+    "answer": [
+      { "text": "HTTP", "correct": false },
+      { "text": "HTTPS", "correct": true },
+      { "text": "FTP", "correct": false },
+      { "text": "SMTP", "correct": false }
+    ]
+  },
+  {
+    "question": "What does 'phishing' refer to?",
+    "answer": [
+      { "text": "Stealing fish from markets", "correct": false },
+      { "text": "Sending fraudulent messages to obtain sensitive data", "correct": true },
+      { "text": "A new online game", "correct": false },
+      { "text": "A type of data encryption", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of these is an example of two-factor authentication?",
+    "answer": [
+      { "text": "Password only", "correct": false },
+      { "text": "Fingerprint and password", "correct": true },
+      { "text": "Username only", "correct": false },
+      { "text": "Security question only", "correct": false }
+    ]
+  },
+  {
+    "question": "What is ransomware?",
+    "answer": [
+      { "text": "A virus that steals passwords", "correct": false },
+      { "text": "Malware that locks data and demands payment", "correct": true },
+      { "text": "A hardware error", "correct": false },
+      { "text": "A secure backup tool", "correct": false }
+    ]
+  },
+  {
+    "question": "Which device is used to connect multiple networks together?",
+    "answer": [
+      { "text": "Router", "correct": true },
+      { "text": "Switch", "correct": false },
+      { "text": "Hub", "correct": false },
+      { "text": "Repeater", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of a firewall?",
+    "answer": [
+      { "text": "To store backup data", "correct": false },
+      { "text": "To block unauthorized access to a network", "correct": true },
+      { "text": "To increase internet speed", "correct": false },
+      { "text": "To repair hardware", "correct": false }
+    ]
+  },
+  {
+    "question": "What does the term 'cloud computing' mean?",
+    "answer": [
+      { "text": "Using internet-based services for storage and computing", "correct": true },
+      { "text": "Sending files through email", "correct": false },
+      { "text": "A weather forecasting system", "correct": false },
+      { "text": "A high-speed LAN connection", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of these is an example of social engineering?",
+    "answer": [
+      { "text": "Guessing someone's password", "correct": false },
+      { "text": "Tricking someone into revealing confidential information", "correct": true },
+      { "text": "Installing antivirus software", "correct": false },
+      { "text": "Running a firewall", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of these is NOT a programming language?",
+    "answer": [
+      { "text": "Python", "correct": false },
+      { "text": "JavaScript", "correct": false },
+      { "text": "HTML", "correct": true },
+      { "text": "Java", "correct": false }
+    ]
+  },
+  {
+    "question": "What does VPN stand for?",
+    "answer": [
+      { "text": "Virtual Private Network", "correct": true },
+      { "text": "Verified Public Node", "correct": false },
+      { "text": "Virtual Protocol Network", "correct": false },
+      { "text": "Visible Private Name", "correct": false }
+    ]
   }
 ]
