@@ -116,58 +116,58 @@
       { "text": "Security question only", "correct": false }
     ]
   },
-  {
-    "question": "What is ransomware?",
+ {
+    "question": "Which type of savings grows faster due to interest being added to previous interest?",
     "answer": [
-      { "text": "A virus that steals passwords", "correct": false },
-      { "text": "Malware that locks data and demands payment", "correct": true },
-      { "text": "A hardware error", "correct": false },
-      { "text": "A secure backup tool", "correct": false }
+      { "text": "Compound interest savings", "correct": true },
+      { "text": "Simple interest savings", "correct": false },
+      { "text": "Flat rate savings", "correct": false },
+      { "text": "Zero-interest savings", "correct": false }
     ]
   },
   {
-    "question": "Which device is used to connect multiple networks together?",
+    "question": "If your monthly net income is ₹40,000 and your needs cost ₹22,000, are you within the 50/30/20 needs limit?",
     "answer": [
-      { "text": "Router", "correct": true },
-      { "text": "Switch", "correct": false },
-      { "text": "Hub", "correct": false },
-      { "text": "Repeater", "correct": false }
+      { "text": "Yes", "correct": true },
+      { "text": "No", "correct": false },
+      { "text": "Only if you save the rest", "correct": false },
+      { "text": "Only if your wants are less than ₹10,000", "correct": false }
     ]
   },
   {
-    "question": "What is the purpose of a firewall?",
+    "question": "You get a salary increase but your expenses also rise because you start eating out more. What budgeting problem is this?",
     "answer": [
-      { "text": "To store backup data", "correct": false },
-      { "text": "To block unauthorized access to a network", "correct": true },
-      { "text": "To increase internet speed", "correct": false },
-      { "text": "To repair hardware", "correct": false }
+      { "text": "Lifestyle inflation", "correct": true },
+      { "text": "Zero-based budgeting", "correct": false },
+      { "text": "Emergency overspending", "correct": false },
+      { "text": "Underestimating fixed costs", "correct": false }
     ]
   },
   {
-    "question": "What does the term 'cloud computing' mean?",
+    "question": "If you want to prioritize paying off debt while still saving, which method works best?",
     "answer": [
-      { "text": "Using internet-based services for storage and computing", "correct": true },
-      { "text": "Sending files through email", "correct": false },
-      { "text": "A weather forecasting system", "correct": false },
-      { "text": "A high-speed LAN connection", "correct": false }
+      { "text": "Pay-yourself-first", "correct": true },
+      { "text": "Spend-first method", "correct": false },
+      { "text": "Random allocation", "correct": false },
+      { "text": "Envelope stuffing only for wants", "correct": false }
     ]
   },
   {
-    "question": "Which of these is an example of social engineering?",
+    "question": "You have ₹5,000 left after covering needs and wants. Where should it go first?",
     "answer": [
-      { "text": "Guessing someone's password", "correct": false },
-      { "text": "Tricking someone into revealing confidential information", "correct": true },
-      { "text": "Installing antivirus software", "correct": false },
-      { "text": "Running a firewall", "correct": false }
+      { "text": "Savings or debt repayment", "correct": true },
+      { "text": "Extra entertainment", "correct": false },
+      { "text": "Impulse shopping", "correct": false },
+      { "text": "Dining out", "correct": false }
     ]
   },
-  {
-    "question": "Which of these is NOT a programming language?",
+ {
+    "question": "What’s a good rule for deciding how much to keep in an emergency fund?",
     "answer": [
-      { "text": "Python", "correct": false },
-      { "text": "JavaScript", "correct": false },
-      { "text": "HTML", "correct": true },
-      { "text": "Java", "correct": false }
+      { "text": "3–6 months of essential expenses", "correct": true },
+      { "text": "1 month of total income", "correct": false },
+      { "text": "Half of yearly salary", "correct": false },
+      { "text": "₹5,000 regardless of expenses", "correct": false }
     ]
   },
   {
