@@ -178,5 +178,185 @@
       { "text": "Virtual Protocol Network", "correct": false },
       { "text": "Visible Private Name", "correct": false }
     ]
+  },
+   {
+    "question": "Your monthly take-home pay is ₹50,000. You spend ₹20,000 on rent, ₹5,000 on groceries, ₹3,000 on entertainment, and ₹7,000 on savings. Are you meeting the 50/30/20 guideline for needs?",
+    "answer": [
+      { "text": "Yes", "correct": true },
+      { "text": "No", "correct": false },
+      { "text": "Only if you reduce entertainment", "correct": false },
+      { "text": "Only if you increase savings", "correct": false }
+    ]
+  },
+  {
+    "question": "You receive irregular freelance payments. Which budgeting step should you be extra careful about?",
+    "answer": [
+      { "text": "Tracking fixed expenses", "correct": false },
+      { "text": "Recording each payment and contract", "correct": true },
+      { "text": "Skipping goal-setting", "correct": false },
+      { "text": "Focusing only on wants", "correct": false }
+    ]
+  },
+  {
+    "question": "In the envelope budget method, you have ₹2,000 for dining out. You spend ₹2,000 by mid-month. What should you do next?",
+    "answer": [
+      { "text": "Stop dining out until next month", "correct": true },
+      { "text": "Take from your groceries envelope", "correct": false },
+      { "text": "Borrow from savings", "correct": false },
+      { "text": "Use a credit card", "correct": false }
+    ]
+  },
+  {
+    "question": "If your monthly income is ₹60,000 and your needs are ₹35,000, what adjustment might be necessary in a strict 50/30/20 plan?",
+    "answer": [
+      { "text": "Increase savings", "correct": false },
+      { "text": "Reduce needs spending", "correct": true },
+      { "text": "Eliminate wants entirely", "correct": false },
+      { "text": "Ignore the plan", "correct": false }
+    ]
+  },
+  {
+    "question": "You cut your cable subscription and save ₹1,200/month. What budgeting step does this represent?",
+    "answer": [
+      { "text": "Adjusting spending to stay on budget", "correct": true },
+      { "text": "Tracking expenses", "correct": false },
+      { "text": "Setting goals", "correct": false },
+      { "text": "Reviewing net income", "correct": false }
+    ]
+  },
+  {
+    "question": "In a zero-based budget, you get a ₹5,000 bonus. How should it be allocated?",
+    "answer": [
+      { "text": "Assigned to a specific expense or savings goal", "correct": true },
+      { "text": "Left unallocated for emergencies", "correct": false },
+      { "text": "Used entirely for wants", "correct": false },
+      { "text": "Added to income without adjusting expenses", "correct": false }
+    ]
+  },
+  {
+    "question": "If you keep exceeding your dining-out budget, which method might work best to control it?",
+    "answer": [
+      { "text": "Envelope budget", "correct": true },
+      { "text": "Zero-based budget", "correct": false },
+      { "text": "Pay-yourself-first", "correct": false },
+      { "text": "Random budgeting", "correct": false }
+    ]
+  },
+  {
+    "question": "Your short-term goal is to buy a laptop in one year. How should it be included in your budget?",
+    "answer": [
+      { "text": "As a savings line item", "correct": true },
+      { "text": "As a fixed expense", "correct": false },
+      { "text": "Only tracked mentally", "correct": false },
+      { "text": "As a variable expense", "correct": false }
+    ]
+  },
+  {
+    "question": "You reduce your daily coffee purchase from ₹150 to ₹50 and save ₹3,000 per month. Which budgeting principle is this?",
+    "answer": [
+      { "text": "Small savings add up over time", "correct": true },
+      { "text": "Cutting fixed expenses", "correct": false },
+      { "text": "Ignoring wants", "correct": false },
+      { "text": "Zero-based allocation", "correct": false }
+    ]
+  },
+  {
+    "question": "If you live in an expensive city, which adjustment might be necessary in the 50/30/20 budget?",
+    "answer": [
+      { "text": "Increase needs percentage", "correct": true },
+      { "text": "Reduce needs percentage", "correct": false },
+      { "text": "Increase wants percentage", "correct": false },
+      { "text": "Eliminate savings", "correct": false }
+    ]
+  },
+  {
+    "question": "Why is it important to categorize expenses into fixed and variable?",
+    "answer": [
+      { "text": "To identify areas where spending can be reduced", "correct": true },
+      { "text": "To calculate taxes", "correct": false },
+      { "text": "To improve your credit score", "correct": false },
+      { "text": "To qualify for loans", "correct": false }
+    ]
+  },
+  {
+    "question": "If your savings goal changes mid-year, what should you do?",
+    "answer": [
+      { "text": "Adjust your budget plan", "correct": true },
+      { "text": "Ignore the change", "correct": false },
+      { "text": "Increase your wants spending", "correct": false },
+      { "text": "Spend the saved money immediately", "correct": false }
+    ]
+  },
+  {
+    "question": "In pay-yourself-first budgeting, when should you transfer money to savings?",
+    "answer": [
+      { "text": "Before paying bills or buying wants", "correct": true },
+      { "text": "After paying all expenses", "correct": false },
+      { "text": "At the end of the month", "correct": false },
+      { "text": "Only if extra income remains", "correct": false }
+    ]
+  },
+  {
+    "question": "If you spend more on entertainment than planned, but less on groceries, what should you check?",
+    "answer": [
+      { "text": "If total spending still aligns with budget goals", "correct": true },
+      { "text": "If your fixed expenses have increased", "correct": false },
+      { "text": "If your net income has changed", "correct": false },
+      { "text": "If your savings goals have doubled", "correct": false }
+    ]
+  },
+  {
+    "question": "You have ₹10,000 in your wants budget. A new phone costs ₹15,000. What’s the best approach?",
+    "answer": [
+      { "text": "Save for it over time", "correct": true },
+      { "text": "Buy it using savings", "correct": false },
+      { "text": "Use a credit card", "correct": false },
+      { "text": "Borrow from friends", "correct": false }
+    ]
+  },
+  {
+    "question": "You track spending daily for a month. What is the main benefit?",
+    "answer": [
+      { "text": "Understanding where your money goes", "correct": true },
+      { "text": "Increasing your income", "correct": false },
+      { "text": "Reducing taxes", "correct": false },
+      { "text": "Getting a loan approved", "correct": false }
+    ]
+  },
+  {
+    "question": "You want to cut expenses without touching savings. Which category should you check first?",
+    "answer": [
+      { "text": "Wants", "correct": true },
+      { "text": "Needs", "correct": false },
+      { "text": "Fixed expenses", "correct": false },
+      { "text": "Emergency fund", "correct": false }
+    ]
+  },
+  {
+    "question": "Your rent increases by ₹3,000. Which budgeting step will help you adjust?",
+    "answer": [
+      { "text": "Revising your budget plan", "correct": true },
+      { "text": "Increasing wants", "correct": false },
+      { "text": "Stopping expense tracking", "correct": false },
+      { "text": "Ignoring the change", "correct": false }
+    ]
+  },
+  {
+    "question": "You spend your savings on an unplanned trip. Which budgeting principle did you break?",
+    "answer": [
+      { "text": "Sticking to financial goals", "correct": true },
+      { "text": "Categorizing expenses", "correct": false },
+      { "text": "50/30/20 distribution", "correct": false },
+      { "text": "Envelope discipline", "correct": false }
+    ]
+  },
+  {
+    "question": "Why should you compare your spending to others occasionally?",
+    "answer": [
+      { "text": "To find potential areas for savings", "correct": true },
+      { "text": "To match their lifestyle", "correct": false },
+      { "text": "To compete financially", "correct": false },
+      { "text": "To increase your income", "correct": false }
+    ]
   }
 ]
