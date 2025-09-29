@@ -1,362 +1,263 @@
 [
   {
-    "question": "What is net income?",
+    "question": "What does the 'C' in the CIA triad stand for in cybersecurity?",
     "answer": [
-      { "text": "Your total pay before deductions", "correct": false },
-      { "text": "Your take-home pay after taxes and benefits", "correct": true },
-      { "text": "Your total investments and savings", "correct": false },
-      { "text": "Your monthly fixed expenses", "correct": false }
+      { "text": "Confidentiality", "correct": true },
+      { "text": "Control", "correct": false },
+      { "text": "Compliance", "correct": false },
+      { "text": "Connectivity", "correct": false }
     ]
   },
   {
-    "question": "Why should you not focus on your total pay when budgeting?",
+    "question": "Which malware encrypts user files and demands ransom payment?",
     "answer": [
-      { "text": "It includes irregular income", "correct": false },
-      { "text": "It may cause you to overspend", "correct": true },
-      { "text": "It is always higher than your actual income", "correct": false },
-      { "text": "It does not include taxes", "correct": false }
+      { "text": "Spyware", "correct": false },
+      { "text": "Adware", "correct": false },
+      { "text": "Ransomware", "correct": true },
+      { "text": "Rootkit", "correct": false }
     ]
   },
   {
-    "question": "Which of the following is a fixed expense?",
+    "question": "What is phishing?",
     "answer": [
-      { "text": "Rent or mortgage", "correct": true },
-      { "text": "Groceries", "correct": false },
-      { "text": "Entertainment", "correct": false },
-      { "text": "Gasoline", "correct": false }
+      { "text": "An attempt to steal sensitive data by impersonating a trusted source", "correct": true },
+      { "text": "A method to speed up network traffic", "correct": false },
+      { "text": "A firewall rule", "correct": false },
+      { "text": "A data encryption process", "correct": false }
     ]
   },
   {
-    "question": "What is the first step in building a budget?",
+    "question": "Which process confirms the identity of a user?",
     "answer": [
-      { "text": "Set financial goals", "correct": false },
-      { "text": "Track your spending", "correct": false },
-      { "text": "Calculate your net income", "correct": true },
-      { "text": "Pick a budgeting method", "correct": false }
+      { "text": "Authorization", "correct": false },
+      { "text": "Authentication", "correct": true },
+      { "text": "Auditing", "correct": false },
+      { "text": "Accounting", "correct": false }
     ]
   },
   {
-    "question": "What percentage of income goes to needs in the 50/30/20 budget?",
+    "question": "Which of the following is an example of Two-Factor Authentication (2FA)?",
     "answer": [
-      { "text": "20%", "correct": false },
-      { "text": "30%", "correct": false },
-      { "text": "50%", "correct": true },
-      { "text": "70%", "correct": false }
+      { "text": "Password + PIN", "correct": false },
+      { "text": "Password + password hint", "correct": false },
+      { "text": "Password + fingerprint", "correct": true },
+      { "text": "Password + username", "correct": false }
     ]
   },
   {
-    "question": "In the envelope budget method, what happens when an envelope is empty?",
+    "question": "What is the main purpose of a firewall?",
     "answer": [
-      { "text": "Refill it immediately", "correct": false },
-      { "text": "Stop spending in that category", "correct": true },
-      { "text": "Borrow from another envelope", "correct": false },
-      { "text": "Reduce savings", "correct": false }
+      { "text": "Encrypt data", "correct": false },
+      { "text": "Block or allow traffic based on rules", "correct": true },
+      { "text": "Scan for viruses", "correct": false },
+      { "text": "Perform backups", "correct": false }
     ]
   },
   {
-    "question": "In the zero-based budget, what should your income minus expenses equal?",
-    "answer": [
-      { "text": "Your total savings", "correct": false },
-      { "text": "Zero", "correct": true },
-      { "text": "Your monthly needs", "correct": false },
-      { "text": "Your total wants", "correct": false }
-    ]
-  },
-  {
-    "question": "Which budgeting method involves saving before paying any bills?",
-    "answer": [
-      { "text": "Envelope budget", "correct": false },
-      { "text": "Zero-based budget", "correct": false },
-      { "text": "Pay-yourself-first budget", "correct": true },
-      { "text": "50/30/20 budget", "correct": false }
-    ]
-  },
-  {
-    "question": "Which category is usually the first to cut back when adjusting a budget?",
-    "answer": [
-      { "text": "Wants", "correct": true },
-      { "text": "Needs", "correct": false },
-      { "text": "Savings", "correct": false },
-      { "text": "Fixed expenses", "correct": false }
-    ]
-  },
-  {
-    "question": "Why should you review your budget regularly?",
-    "answer": [
-      { "text": "Because budgets expire", "correct": false },
-      { "text": "To ensure it reflects changes in income or expenses", "correct": true },
-      { "text": "To get better investment returns", "correct": false },
-      { "text": "To increase your credit score", "correct": false }
-    ]
-  },
-  {
-    "question": "Which protocol is used for secure communication over the internet?",
+    "question": "Which protocol is secure for web browsing?",
     "answer": [
       { "text": "HTTP", "correct": false },
-      { "text": "HTTPS", "correct": true },
       { "text": "FTP", "correct": false },
+      { "text": "HTTPS", "correct": true },
       { "text": "SMTP", "correct": false }
     ]
   },
   {
-    "question": "What does 'phishing' refer to?",
+    "question": "What is a zero-day vulnerability?",
     "answer": [
-      { "text": "Stealing fish from markets", "correct": false },
-      { "text": "Sending fraudulent messages to obtain sensitive data", "correct": true },
-      { "text": "A new online game", "correct": false },
-      { "text": "A type of data encryption", "correct": false }
+      { "text": "A bug discovered after patching", "correct": false },
+      { "text": "A flaw exploited before the vendor knows or fixes it", "correct": true },
+      { "text": "A harmless software issue", "correct": false },
+      { "text": "A virus with no payload", "correct": false }
     ]
   },
   {
-    "question": "Which of these is an example of two-factor authentication?",
+    "question": "Which cryptography type uses the same key for encryption and decryption?",
     "answer": [
-      { "text": "Password only", "correct": false },
-      { "text": "Fingerprint and password", "correct": true },
-      { "text": "Username only", "correct": false },
-      { "text": "Security question only", "correct": false }
-    ]
-  },
- {
-    "question": "Which type of savings grows faster due to interest being added to previous interest?",
-    "answer": [
-      { "text": "Compound interest savings", "correct": true },
-      { "text": "Simple interest savings", "correct": false },
-      { "text": "Flat rate savings", "correct": false },
-      { "text": "Zero-interest savings", "correct": false }
+      { "text": "Symmetric cryptography", "correct": true },
+      { "text": "Asymmetric cryptography", "correct": false },
+      { "text": "Quantum cryptography", "correct": false },
+      { "text": "Hashing", "correct": false }
     ]
   },
   {
-    "question": "If your monthly net income is ₹40,000 and your needs cost ₹22,000, are you within the 50/30/20 needs limit?",
+    "question": "What is the main purpose of hashing?",
     "answer": [
-      { "text": "Yes", "correct": true },
-      { "text": "No", "correct": false },
-      { "text": "Only if you save the rest", "correct": false },
-      { "text": "Only if your wants are less than ₹10,000", "correct": false }
+      { "text": "To compress files", "correct": false },
+      { "text": "To secure VPNs", "correct": false },
+      { "text": "To encrypt and decrypt", "correct": false },
+      { "text": "To check integrity of data", "correct": true }
     ]
   },
   {
-    "question": "You get a salary increase but your expenses also rise because you start eating out more. What budgeting problem is this?",
+    "question": "Which attack floods a system with traffic to make it unavailable?",
     "answer": [
-      { "text": "Lifestyle inflation", "correct": true },
-      { "text": "Zero-based budgeting", "correct": false },
-      { "text": "Emergency overspending", "correct": false },
-      { "text": "Underestimating fixed costs", "correct": false }
+      { "text": "SQL Injection", "correct": false },
+      { "text": "Cross-site scripting", "correct": false },
+      { "text": "Denial-of-Service (DoS/DDoS)", "correct": true },
+      { "text": "Man-in-the-middle", "correct": false }
     ]
   },
   {
-    "question": "If you want to prioritize paying off debt while still saving, which method works best?",
+    "question": "SQL Injection targets which part of a system?",
     "answer": [
-      { "text": "Pay-yourself-first", "correct": true },
-      { "text": "Spend-first method", "correct": false },
-      { "text": "Random allocation", "correct": false },
-      { "text": "Envelope stuffing only for wants", "correct": false }
+      { "text": "Network router", "correct": false },
+      { "text": "Database queries", "correct": true },
+      { "text": "Operating system", "correct": false },
+      { "text": "Email accounts", "correct": false }
     ]
   },
   {
-    "question": "You have ₹5,000 left after covering needs and wants. Where should it go first?",
+    "question": "What is social engineering in cybersecurity?",
     "answer": [
-      { "text": "Savings or debt repayment", "correct": true },
-      { "text": "Extra entertainment", "correct": false },
-      { "text": "Impulse shopping", "correct": false },
-      { "text": "Dining out", "correct": false }
-    ]
-  },
- {
-    "question": "What’s a good rule for deciding how much to keep in an emergency fund?",
-    "answer": [
-      { "text": "3–6 months of essential expenses", "correct": true },
-      { "text": "1 month of total income", "correct": false },
-      { "text": "Half of yearly salary", "correct": false },
-      { "text": "₹5,000 regardless of expenses", "correct": false }
+      { "text": "Encrypting messages", "correct": false },
+      { "text": "Tricking people to give away confidential info", "correct": true },
+      { "text": "Firewall configuration", "correct": false },
+      { "text": "Password hashing", "correct": false }
     ]
   },
   {
-    "question": "What does VPN stand for?",
+    "question": "What is a VPN mainly used for?",
     "answer": [
-      { "text": "Virtual Private Network", "correct": true },
-      { "text": "Verified Public Node", "correct": false },
-      { "text": "Virtual Protocol Network", "correct": false },
-      { "text": "Visible Private Name", "correct": false }
-    ]
-  },
-   {
-    "question": "Your monthly take-home pay is ₹50,000. You spend ₹20,000 on rent, ₹5,000 on groceries, ₹3,000 on entertainment, and ₹7,000 on savings. Are you meeting the 50/30/20 guideline for needs?",
-    "answer": [
-      { "text": "Yes", "correct": true },
-      { "text": "No", "correct": false },
-      { "text": "Only if you reduce entertainment", "correct": false },
-      { "text": "Only if you increase savings", "correct": false }
+      { "text": "To speed up internet", "correct": false },
+      { "text": "To create a secure, encrypted connection", "correct": true },
+      { "text": "To block malware", "correct": false },
+      { "text": "To backup data", "correct": false }
     ]
   },
   {
-    "question": "You receive irregular freelance payments. Which budgeting step should you be extra careful about?",
+    "question": "What is IDS/IPS used for?",
     "answer": [
-      { "text": "Tracking fixed expenses", "correct": false },
-      { "text": "Recording each payment and contract", "correct": true },
-      { "text": "Skipping goal-setting", "correct": false },
-      { "text": "Focusing only on wants", "correct": false }
+      { "text": "Detecting and preventing intrusions", "correct": true },
+      { "text": "Distributing Wi-Fi", "correct": false },
+      { "text": "Encrypting data", "correct": false },
+      { "text": "Backing up files", "correct": false }
     ]
   },
   {
-    "question": "In the envelope budget method, you have ₹2,000 for dining out. You spend ₹2,000 by mid-month. What should you do next?",
+    "question": "What does 'least privilege' principle mean?",
     "answer": [
-      { "text": "Stop dining out until next month", "correct": true },
-      { "text": "Take from your groceries envelope", "correct": false },
-      { "text": "Borrow from savings", "correct": false },
-      { "text": "Use a credit card", "correct": false }
+      { "text": "All users get admin rights", "correct": false },
+      { "text": "No permissions at all", "correct": false },
+      { "text": "Only minimum permissions required are granted", "correct": true },
+      { "text": "Temporary passwords for everyone", "correct": false }
     ]
   },
   {
-    "question": "If your monthly income is ₹60,000 and your needs are ₹35,000, what adjustment might be necessary in a strict 50/30/20 plan?",
+    "question": "What is a honeypot in cybersecurity?",
     "answer": [
-      { "text": "Increase savings", "correct": false },
-      { "text": "Reduce needs spending", "correct": true },
-      { "text": "Eliminate wants entirely", "correct": false },
-      { "text": "Ignore the plan", "correct": false }
+      { "text": "A trap system set up to attract attackers", "correct": true },
+      { "text": "A password manager", "correct": false },
+      { "text": "A type of virus", "correct": false },
+      { "text": "A firewall feature", "correct": false }
     ]
   },
   {
-    "question": "You cut your cable subscription and save ₹1,200/month. What budgeting step does this represent?",
+    "question": "Which of the following is NOT malware?",
     "answer": [
-      { "text": "Adjusting spending to stay on budget", "correct": true },
-      { "text": "Tracking expenses", "correct": false },
-      { "text": "Setting goals", "correct": false },
-      { "text": "Reviewing net income", "correct": false }
+      { "text": "Trojan", "correct": false },
+      { "text": "Worm", "correct": false },
+      { "text": "Firewall", "correct": true },
+      { "text": "Spyware", "correct": false }
     ]
   },
   {
-    "question": "In a zero-based budget, you get a ₹5,000 bonus. How should it be allocated?",
+    "question": "What does 'brute force attack' mean?",
     "answer": [
-      { "text": "Assigned to a specific expense or savings goal", "correct": true },
-      { "text": "Left unallocated for emergencies", "correct": false },
-      { "text": "Used entirely for wants", "correct": false },
-      { "text": "Added to income without adjusting expenses", "correct": false }
+      { "text": "Guessing passwords repeatedly until correct", "correct": true },
+      { "text": "Injecting malicious SQL", "correct": false },
+      { "text": "Redirecting users to fake sites", "correct": false },
+      { "text": "Stealing data with spyware", "correct": false }
     ]
   },
   {
-    "question": "If you keep exceeding your dining-out budget, which method might work best to control it?",
+    "question": "What is multi-factor authentication (MFA)?",
     "answer": [
-      { "text": "Envelope budget", "correct": true },
-      { "text": "Zero-based budget", "correct": false },
-      { "text": "Pay-yourself-first", "correct": false },
-      { "text": "Random budgeting", "correct": false }
+      { "text": "Login with username only", "correct": false },
+      { "text": "Using more than one method of verifying identity", "correct": true },
+      { "text": "A stronger firewall", "correct": false },
+      { "text": "Changing passwords monthly", "correct": false }
     ]
   },
   {
-    "question": "Your short-term goal is to buy a laptop in one year. How should it be included in your budget?",
+    "question": "What does HTTPS protect?",
     "answer": [
-      { "text": "As a savings line item", "correct": true },
-      { "text": "As a fixed expense", "correct": false },
-      { "text": "Only tracked mentally", "correct": false },
-      { "text": "As a variable expense", "correct": false }
+      { "text": "Web communication with encryption", "correct": true },
+      { "text": "Local file storage", "correct": false },
+      { "text": "Offline data backups", "correct": false },
+      { "text": "Printer connections", "correct": false }
     ]
   },
   {
-    "question": "You reduce your daily coffee purchase from ₹150 to ₹50 and save ₹3,000 per month. Which budgeting principle is this?",
+    "question": "Which of these is an example of biometric authentication?",
     "answer": [
-      { "text": "Small savings add up over time", "correct": true },
-      { "text": "Cutting fixed expenses", "correct": false },
-      { "text": "Ignoring wants", "correct": false },
-      { "text": "Zero-based allocation", "correct": false }
+      { "text": "Password", "correct": false },
+      { "text": "PIN", "correct": false },
+      { "text": "Fingerprint scan", "correct": true },
+      { "text": "Username", "correct": false }
     ]
   },
   {
-    "question": "If you live in an expensive city, which adjustment might be necessary in the 50/30/20 budget?",
+    "question": "What is spyware designed to do?",
     "answer": [
-      { "text": "Increase needs percentage", "correct": true },
-      { "text": "Reduce needs percentage", "correct": false },
-      { "text": "Increase wants percentage", "correct": false },
-      { "text": "Eliminate savings", "correct": false }
+      { "text": "Encrypt system files", "correct": false },
+      { "text": "Secretly collect user information", "correct": true },
+      { "text": "Block antivirus software", "correct": false },
+      { "text": "Flood servers with requests", "correct": false }
     ]
   },
   {
-    "question": "Why is it important to categorize expenses into fixed and variable?",
+    "question": "Which type of malware replicates itself and spreads to other systems?",
     "answer": [
-      { "text": "To identify areas where spending can be reduced", "correct": true },
-      { "text": "To calculate taxes", "correct": false },
-      { "text": "To improve your credit score", "correct": false },
-      { "text": "To qualify for loans", "correct": false }
+      { "text": "Virus", "correct": false },
+      { "text": "Worm", "correct": true },
+      { "text": "Trojan", "correct": false },
+      { "text": "Spyware", "correct": false }
     ]
   },
   {
-    "question": "If your savings goal changes mid-year, what should you do?",
+    "question": "What is a Trojan horse in cybersecurity?",
     "answer": [
-      { "text": "Adjust your budget plan", "correct": true },
-      { "text": "Ignore the change", "correct": false },
-      { "text": "Increase your wants spending", "correct": false },
-      { "text": "Spend the saved money immediately", "correct": false }
+      { "text": "A malware disguised as legitimate software", "correct": true },
+      { "text": "A network attack tool", "correct": false },
+      { "text": "A password manager", "correct": false },
+      { "text": "An email encryption app", "correct": false }
     ]
   },
   {
-    "question": "In pay-yourself-first budgeting, when should you transfer money to savings?",
+    "question": "Which of these is a strong password example?",
     "answer": [
-      { "text": "Before paying bills or buying wants", "correct": true },
-      { "text": "After paying all expenses", "correct": false },
-      { "text": "At the end of the month", "correct": false },
-      { "text": "Only if extra income remains", "correct": false }
+      { "text": "12345678", "correct": false },
+      { "text": "Password1", "correct": false },
+      { "text": "Xy9!dL$2pQ", "correct": true },
+      { "text": "qwerty", "correct": false }
     ]
   },
   {
-    "question": "If you spend more on entertainment than planned, but less on groceries, what should you check?",
+    "question": "What is a man-in-the-middle attack?",
     "answer": [
-      { "text": "If total spending still aligns with budget goals", "correct": true },
-      { "text": "If your fixed expenses have increased", "correct": false },
-      { "text": "If your net income has changed", "correct": false },
-      { "text": "If your savings goals have doubled", "correct": false }
+      { "text": "An attacker secretly intercepts and alters communication", "correct": true },
+      { "text": "An attack using multiple computers", "correct": false },
+      { "text": "Infecting a system with ransomware", "correct": false },
+      { "text": "Overloading a network", "correct": false }
     ]
   },
   {
-    "question": "You have ₹10,000 in your wants budget. A new phone costs ₹15,000. What’s the best approach?",
+    "question": "Which law protects digital privacy in the European Union?",
     "answer": [
-      { "text": "Save for it over time", "correct": true },
-      { "text": "Buy it using savings", "correct": false },
-      { "text": "Use a credit card", "correct": false },
-      { "text": "Borrow from friends", "correct": false }
+      { "text": "HIPAA", "correct": false },
+      { "text": "GDPR", "correct": true },
+      { "text": "DMCA", "correct": false },
+      { "text": "CFAA", "correct": false }
     ]
   },
   {
-    "question": "You track spending daily for a month. What is the main benefit?",
+    "question": "What is penetration testing?",
     "answer": [
-      { "text": "Understanding where your money goes", "correct": true },
-      { "text": "Increasing your income", "correct": false },
-      { "text": "Reducing taxes", "correct": false },
-      { "text": "Getting a loan approved", "correct": false }
-    ]
-  },
-  {
-    "question": "You want to cut expenses without touching savings. Which category should you check first?",
-    "answer": [
-      { "text": "Wants", "correct": true },
-      { "text": "Needs", "correct": false },
-      { "text": "Fixed expenses", "correct": false },
-      { "text": "Emergency fund", "correct": false }
-    ]
-  },
-  {
-    "question": "Your rent increases by ₹3,000. Which budgeting step will help you adjust?",
-    "answer": [
-      { "text": "Revising your budget plan", "correct": true },
-      { "text": "Increasing wants", "correct": false },
-      { "text": "Stopping expense tracking", "correct": false },
-      { "text": "Ignoring the change", "correct": false }
-    ]
-  },
-  {
-    "question": "You spend your savings on an unplanned trip. Which budgeting principle did you break?",
-    "answer": [
-      { "text": "Sticking to financial goals", "correct": true },
-      { "text": "Categorizing expenses", "correct": false },
-      { "text": "50/30/20 distribution", "correct": false },
-      { "text": "Envelope discipline", "correct": false }
-    ]
-  },
-  {
-    "question": "Why should you compare your spending to others occasionally?",
-    "answer": [
-      { "text": "To find potential areas for savings", "correct": true },
-      { "text": "To match their lifestyle", "correct": false },
-      { "text": "To compete financially", "correct": false },
-      { "text": "To increase your income", "correct": false }
+      { "text": "Scanning hard drives", "correct": false },
+      { "text": "Simulating attacks to test security", "correct": true },
+      { "text": "Installing antivirus software", "correct": false },
+      { "text": "Encrypting user files", "correct": false }
     ]
   }
 ]
